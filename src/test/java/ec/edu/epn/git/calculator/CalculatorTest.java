@@ -1,4 +1,4 @@
-package ec.edu.epn.calculator;
+package ec.edu.epn.git.calculator;
 import org.junit.*;
 import static org.junit.Assert.*;
 
